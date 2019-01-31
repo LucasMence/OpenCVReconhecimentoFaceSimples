@@ -1,23 +1,32 @@
-# Reconhecimento de Imagem Simplificado - OpenCV - AndroidStudio
+**English**
 
-Projeto desenvolvido para reconhecimento facial de fotografias para sistema operacional android utilizando a biblioteca OpenCv.
+# Face Recognition using openCV library on android - example;
+
+# Objetive
+
+Project developed for the workshop of the studies w/ android and opencv during the semester;
+
+For a complete openCV project access [this repository](https://github.com/lucasmence/openCVAndroidDemoApp).
+
+# Requeriments
+
+* Android Studio 2.2.7 or higher.
+
+---
+
+**Portuguese**
+
+
+# Reconhecimento facial usando a biblioteca openCV no android - examplo;
 
 # Objetivo
 
-Desenvolvido para uma apresentação de visão computacional e sendo disponibilizada para os alunos do UniSALESIANO Araçatuba - SP,
-Curso de Engenharia da Computação, 9º Termo, Abril de 2018.
+Projeto desenvolvido para a oficina de estudos que foram realizados com android e opencv durante o semestre;
 
-Projeto utilizado na aula de Programação para Dispositivos Moveis II 
-Universidade/College: UniSALESIANO Araçatuba, SP
-
-Aluno: Lucas da Silva 
-R.A.:203417
-e-mail: lucas21021996@gmail.com
-
-Professor: Anderson Kanegae
+Para o projeto mais completo no OPENCV acesse [este repositório](https://github.com/lucasmence/openCVAndroidDemoApp).
 
 # Requerimentos
 
-* Android Studio 2.2.7 ou superior
+* Android Studio 2.2.7 ou superior.
 
 
